@@ -11,9 +11,8 @@ The objective of this project is to create a functional E-commerce platform that
 2. [Entities](#entities)
 3. [Beans](#beans)
 4. [JSF Views](#jsf-views)
-5. [Getting Started](#getting-started)
-6. [Contributing](#contributing)
-7. [License](#license)
+5. [Contributing](#contributing)
+6. [License](#license)
 
 ## Modelization
 The project begins with a detailed class diagram that defines the essential entities, their attributes, and relationships within the E-commerce application. These entities include Product, User, ShoppingCart, CartItem, Order, OrderItem, Category, and Payment.
@@ -26,9 +25,6 @@ Managed bean classes, such as ProductBean, ShoppingCartBean, and CategoryBean, p
 
 ## JSF Views
 The project includes various JavaServer Faces (JSF) views that create an interactive and user-friendly web interface for the application. The views facilitate tasks such as product search, creation, and modification.
-
-## Getting Started
-To get started with this project, please refer to the [Getting Started](/docs/GETTING_STARTED.md) guide, which provides instructions on setting up the development environment and running the application.
 
 ## Contributing
 Contributions to this project are welcome! If you'd like to contribute, please follow the [Contributing Guidelines](/docs/CONTRIBUTING.md) for details on how to get started.
